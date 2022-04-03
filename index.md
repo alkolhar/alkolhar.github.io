@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Machine Learning Project](/sample_page)
+[Machine Learning Project](/notebooks/ml-projekt/ML-Projekt)
 <img src="images/ml-projekt.png?raw=true"/>
 
 ---
