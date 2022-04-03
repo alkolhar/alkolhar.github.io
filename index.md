@@ -4,7 +4,7 @@
 
 ### OST Systemtechnik Projects
 
-[Machine Learning Project](/notebooks/ml-projekt/ML-Projekt)
+[Machine Learning Project](/notebooks/ml-project/rain-in-australia.md)
 <img src="images/ml-projekt.png?raw=true"/>
 
 ---
