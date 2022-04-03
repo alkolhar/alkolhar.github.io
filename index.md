@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### OST Systemtechnik Projects
 
 [Machine Learning Project](/notebooks/ml-projekt/ML-Projekt)
 <img src="images/ml-projekt.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Other Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
