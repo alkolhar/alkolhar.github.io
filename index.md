@@ -12,15 +12,15 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[TODO: Deep Reinforcement Learning Project - Ongoing](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Deep Reinforcement Learning Project - Ongoing](https://alkolhar.github.io/M_DRL/)
+<img src="images/windy_gridworld.png?raw=true"/>
 
 ---
 
 ### Finished Projects
 
 [PHP Address Book](https://alkolhar.github.io/M_Web/)
-<img src="images/php-addressbook.jpg?raw=true"/>
+<img src="images/php-addressbook.png?raw=true"/>
 
 ---
 [Machine Learning Project](/notebooks/ml-project/rain-in-australia.html)
