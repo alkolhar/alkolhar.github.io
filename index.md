@@ -19,8 +19,8 @@
 
 ### Finished Projects
 
-[TODO: Web Project](/notebooks/ml-project/rain-in-australia.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[PHP Address Book](https://alkolhar.github.io/M_Web/)
+<img src="images/php-addressbook.jpg?raw=true"/>
 
 ---
 [Machine Learning Project](/notebooks/ml-project/rain-in-australia.html)
