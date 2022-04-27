@@ -13,7 +13,7 @@
 
 ---
 [Deep Reinforcement Learning Project - Ongoing](https://alkolhar.github.io/M_DRL/)
-<img src="images/windy_gridworld.png?raw=true"/>
+<img src="images/cliff_walking.png?raw=true"/>
 
 ---
 
