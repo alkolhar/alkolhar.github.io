@@ -4,12 +4,12 @@
 
 ### Ongoing Projects
 
-[TODO: Bachelor Thesis - Ongoing](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bachelor Thesis - Ongoing](/pdf/BA_Fachmodul_YogaAI.pdf)
+<img src="images/ba_yoga-ai.png?raw=true"/>
 
 ---
-[TODO: Applied Neural Networks Project - Ongoing](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Applied Neural Networks Project - Ongoing](https://alkolhar.github.io/M_ANN/)
+<img src="images/ann_style-transfer.jpeg?raw=true"/>
 
 ---
 [Deep Reinforcement Learning Project - Ongoing](https://alkolhar.github.io/M_DRL/)
