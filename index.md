@@ -12,13 +12,13 @@
 <img src="images/ann_style-transfer.jpeg?raw=true"/>
 
 ---
+
+### Finished Projects
+
 [Deep Reinforcement Learning Project - Ongoing](https://alkolhar.github.io/M_DRL/)
 <img src="images/cliff_walking.png?raw=true"/>
 
 ---
-
-### Finished Projects
-
 [PHP Address Book](https://alkolhar.github.io/M_Web/)
 <img src="images/php-addressbook.png?raw=true"/>
 
