@@ -15,18 +15,18 @@
 
 ### Finished Projects
 
-[Deep Reinforcement Learning Project - Ongoing](https://alkolhar.github.io/M_DRL/)
+[Cliff Walking & Lunar Lander with Deep Reinforcement Learning](https://alkolhar.github.io/M_DRL/)
 <img src="images/cliff_walking.png?raw=true"/>
 
 ---
+[Will it rain in Australia? Machine Learning Project](/notebooks/ml-project/rain-in-australia.html)
+<img src="images/ml-projekt.png?raw=true"/>
+
+--- 
 [PHP Address Book](https://alkolhar.github.io/M_Web/)
 <img src="images/php-addressbook.png?raw=true"/>
 
 ---
-[Machine Learning Project](/notebooks/ml-project/rain-in-australia.html)
-<img src="images/ml-projekt.png?raw=true"/>
-
---- 
 <!--
 ### Other Projects
 
