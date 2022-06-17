@@ -8,13 +8,13 @@
 <img src="images/ba_yoga-ai.png?raw=true"/>
 
 ---
-[Applied Neural Networks Project - Ongoing](https://alkolhar.github.io/M_ANN/)
-<img src="images/ann_style-transfer.jpeg?raw=true"/>
-
----
 
 ### Finished Projects
 
+[Applied Neural Networks Project - Ongoing](https://alkolhar.github.io/M_ANN/)
+<img src="images/ann_style-transfer.jpg?raw=true"/>
+
+---
 [Cliff Walking & Lunar Lander with Deep Reinforcement Learning](https://alkolhar.github.io/M_DRL/)
 <img src="images/cliff_walking.png?raw=true"/>
 
