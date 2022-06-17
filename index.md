@@ -11,7 +11,7 @@
 
 ### Finished Projects
 
-[Applied Neural Networks Project - Ongoing](https://alkolhar.github.io/M_ANN/)
+[Applied Neural Networks Project](https://alkolhar.github.io/M_ANN/)
 <img src="images/ann_style-transfer.jpg?raw=true"/>
 
 ---
