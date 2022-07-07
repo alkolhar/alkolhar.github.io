@@ -11,6 +11,10 @@
 
 ### Finished Projects
 
+[Review Sentiment Analysis GCP](https://alkolhar.github.io/InI-CC/)
+<img src="images/cc-landingpage.jpg?raw=true"/>
+
+---
 [Applied Neural Networks Project](https://alkolhar.github.io/M_ANN/)
 <img src="images/ann_style-transfer.jpg?raw=true"/>
 
