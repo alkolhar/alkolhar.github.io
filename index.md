@@ -2,15 +2,15 @@
 
 ---
 
-### Ongoing Projects
+<!--- ### Ongoing Projects --->
 
-[Bachelor Thesis - Ongoing](/pdf/BA_Fachmodul_YogaAI.pdf)
-<img src="images/ba_yoga-ai.png?raw=true"/>
-
----
 
 ### Finished Projects
 
+[Bachelor Thesis - Ongoing](/pdf/BA_Yoga-AI_Seliner-Koller.pdf)
+<img src="images/training_preview.png?raw=true"/>
+
+---
 [Review Sentiment Analysis GCP](https://alkolhar.github.io/InI-CC/)
 <img src="images/cc-landingpage.jpg?raw=true"/>
 
