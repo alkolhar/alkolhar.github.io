@@ -2,7 +2,7 @@
 
 ---
 
- ### Ongoing Projects
+### Ongoing Projects
  
 [Yoga AI to the Cloud](https://github.com/alkolhar/yoga-ai-cloud)
 <img src="images/learning_preview.png?raw=true"/>
