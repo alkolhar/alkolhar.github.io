@@ -2,12 +2,21 @@
 
 ---
 
-<!--- ### Ongoing Projects --->
+ ### Ongoing Projects
+[Yoga AI to the Cloud](https://github.com/alkolhar/yoga-ai-cloud)
+<img src="images/learning_preview.png?raw=true"/>
 
+---
+[Portfolio Page revamped](https://github.com/alkolhar/portfolio-revamped)
+<img src="images/frontend.png">
+
+---
+[Measure all the things](https://github.com/alkolhar/rpi-measure)
+<img src="images/measure.png?raw=true"/>
 
 ### Finished Projects
 
-[Bachelor Thesis - Ongoing](/pdf/BA_Yoga-AI_Seliner-Koller.pdf)
+[Bachelor Thesis: Yoga AI](/pdf/BA_Yoga-AI_Seliner-Koller.pdf)
 <img src="images/training_preview.png?raw=true"/>
 
 ---
